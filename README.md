@@ -1,8 +1,8 @@
-#The odin project - Exercício em JavaScript
+# The odin project - Exercício em JavaScript
 
 Este repositório contém um exercício prático em JavaScript, realizado como parte do curso oferecido pelo "The Odin Project". O propósito principal desse exercício é a criação de um arquivo HTML e a incorporação de JavaScript de diversas maneiras, proporcionando uma oportunidade para a aplicação prática dos conceitos aprendidos.
 
-##Objetivo do Exercício
+## Objetivo do Exercício
 
 O objetivo principal deste exercício é solidificar os conhecimentos adquiridos no curso, proporcionando a oportunidade de aplicar na prática os conceitos relacionados a JavaScript e integração com HTML. A tarefa consiste em criar um arquivo HTML simples e incorporar JavaScript de maneiras diversas para realizar operações específicas.
 
