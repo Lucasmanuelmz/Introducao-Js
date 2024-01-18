@@ -1,1 +1,3 @@
-console.log("Fui adicionado no arquivo externo!")
+console.log("Fui adicionado no arquivo externo!");
+
+//Adição pelo arquivo externo
