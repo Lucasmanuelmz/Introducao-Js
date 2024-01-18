@@ -1,0 +1,1 @@
+console.log("Fui adicionado no arquivo externo!")
