@@ -6,7 +6,7 @@ Este repositório contém um exercício prático em JavaScript, realizado como p
 
 O objetivo principal deste exercício é solidificar os conhecimentos adquiridos no curso, proporcionando a oportunidade de aplicar na prática os conceitos relacionados a JavaScript e integração com HTML. A tarefa consiste em criar um arquivo HTML simples e incorporar JavaScript de maneiras diversas para realizar operações específicas.
 
-##Descrição do Exercício
+## Descrição do Exercício
 
 O exercício envolve:
 
